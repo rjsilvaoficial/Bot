@@ -1,0 +1,7 @@
+C:\Projetos\Bot\Bot.MegaSena\bin\Debug\Bot.MegaSena.exe.config
+C:\Projetos\Bot\Bot.MegaSena\bin\Debug\Bot.MegaSena.exe
+C:\Projetos\Bot\Bot.MegaSena\bin\Debug\Bot.MegaSena.pdb
+C:\Projetos\Bot\Bot.MegaSena\obj\Debug\Bot.Instagram.csproj.AssemblyReference.cache
+C:\Projetos\Bot\Bot.MegaSena\obj\Debug\Bot.Instagram.csproj.CoreCompileInputs.cache
+C:\Projetos\Bot\Bot.MegaSena\obj\Debug\Bot.MegaSena.exe
+C:\Projetos\Bot\Bot.MegaSena\obj\Debug\Bot.MegaSena.pdb
